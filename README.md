@@ -1,0 +1,2 @@
+# EssentialsX
+EssentialsX Skript
